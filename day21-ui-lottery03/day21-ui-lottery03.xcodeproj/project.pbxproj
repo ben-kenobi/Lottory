@@ -19,7 +19,6 @@
 		1857D8981BD50B8C00134F73 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1857D81D1BD50B8C00134F73 /* Localizable.strings */; };
 		1857D8991BD50B8C00134F73 /* conf.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1857D81F1BD50B8C00134F73 /* conf.plist */; };
 		1857D89A1BD50B8C00134F73 /* mystring.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1857D8201BD50B8C00134F73 /* mystring.strings */; };
-		1857D89B1BD50B8C00134F73 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1857D8241BD50B8C00134F73 /* Info.plist */; };
 		1857D89C1BD50B8C00134F73 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 1857D8261BD50B8C00134F73 /* MASCompositeConstraint.m */; };
 		1857D89D1BD50B8C00134F73 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 1857D8291BD50B8C00134F73 /* MASConstraint.m */; };
 		1857D89E1BD50B8C00134F73 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = 1857D82B1BD50B8C00134F73 /* MASConstraintMaker.m */; };
@@ -786,7 +785,6 @@
 				1857D8C71BD50B8C00134F73 /* rule.css in Resources */,
 				18FFA2C01DD027480024C706 /* Launch Screen.storyboard in Resources */,
 				1857D8BC1BD50B8C00134F73 /* jxssc_howto.html in Resources */,
-				1857D89B1BD50B8C00134F73 /* Info.plist in Resources */,
 				1857D89A1BD50B8C00134F73 /* mystring.strings in Resources */,
 				1857D8991BD50B8C00134F73 /* conf.plist in Resources */,
 				1857D8C31BD50B8C00134F73 /* pl3_howto.html in Resources */,
